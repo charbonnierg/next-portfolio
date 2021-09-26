@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Home",
+    "to": "/"
+  },
+  {
+    "label": "About",
+    "to": "/about"
+  },
+  {
+    "label": "Yet Another Home",
+    "to": "/"
+  }
+]
